@@ -1,0 +1,19 @@
+{
+  "name": "react-backbone",
+  "version": "1.0.0",
+  "description": "react-backbone ==============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/react-backbone.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/react-backbone/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/react-backbone"
+}
